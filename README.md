@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -21,4 +22,12 @@
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
