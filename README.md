@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
