@@ -1,10 +1,20 @@
 class Solution {
     public int totalHammingDistance(int[] nums) {
         int ans = 0;
-        for(int i=0;i<nums.length;i++){
-            for(int j = i+1;j<nums.length;j++)
-                ans+= Integer.bitCount(nums[i]^nums[j]);
+        int n = nums.length;
+
+        for (int bit = 0; bit < 32; bit++) {
+            int ones = 0;
+
+            for (int num : nums) {
+                if (((num >> bit) & 1) == 1) {
+                    ones++;
+                }
+            }
+
+            ans += ones * (n - ones);
         }
+
         return ans;
     }
 }
