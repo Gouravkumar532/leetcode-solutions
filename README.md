@@ -35,4 +35,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
