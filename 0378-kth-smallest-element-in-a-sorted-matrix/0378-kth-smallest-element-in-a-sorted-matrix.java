@@ -1,30 +1,29 @@
 class Solution {
     public int kthSmallest(int[][] matrix, int k) {
-        int n = matrix.length;
-
-        // Min Heap: {value, row, col}
-        PriorityQueue<int[]> pq = new PriorityQueue<>(
-            (a, b) -> a[0] - b[0]
-        );
-
-        // Push the first element of each row
-        for (int i = 0; i < n; i++) {
-            pq.offer(new int[]{matrix[i][0], i, 0});
-        }
-
-        // Remove the smallest k-1 elements
-        while (--k > 0) {
-            int[] cur = pq.poll();
-
-            int row = cur[1];
-            int col = cur[2];
-
-            // Push the next element from the same row
-            if (col + 1 < n) {
-                pq.offer(new int[]{matrix[row][col + 1], row, col + 1});
+        int rows = matrix.length, cols = matrix[0].length;
+        
+        int lo = matrix[0][0], hi = matrix[rows - 1][cols - 1] ;
+        while(lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+            int count = 0,  maxNum = lo;
+           
+            for (int r = 0, c = cols - 1; r < rows; r++) {
+                while (c >= 0 && matrix[r][c] > mid) c--;   
+                
+                if (c >= 0) {
+                    count += (c + 1); // count of nums <= mid in matrix
+                    maxNum = Math.max(maxNum, matrix[r][c]); 
+         // mid might be value not in  matrix, we need to record the actually max num;
+                }else{ //it means c < 0
+                    break;
+                } 
             }
+            
+            // adjust search range
+            if (count == k) return maxNum;
+            else if (count < k) lo = mid + 1;
+            else hi = mid - 1;
         }
-
-        return pq.peek()[0];
+        return lo;
     }
 }
