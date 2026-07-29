@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 ## Brainteaser
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
