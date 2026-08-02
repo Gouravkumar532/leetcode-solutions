@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0137-single-number-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -99,6 +100,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -110,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
