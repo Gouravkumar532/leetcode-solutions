@@ -7,6 +7,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0319-bulb-switcher](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0477-total-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -27,6 +28,7 @@
 | [0283-move-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0477-total-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -108,9 +110,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
