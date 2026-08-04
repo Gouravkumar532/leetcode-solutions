@@ -37,11 +37,13 @@
 | [1095-find-in-mountain-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
