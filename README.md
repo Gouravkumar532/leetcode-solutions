@@ -30,6 +30,7 @@
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0137-single-number-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0477-total-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0477-total-hamming-distance) |
@@ -46,12 +47,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,11 +104,13 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
