@@ -1,36 +1,57 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if(s.length()==1) return s;
-        int ansa = 0;
-        int ansb = 0;
-        for(int i=0;i<s.length();i++){
-            int j=i;
-            int k = i;
-            while((j>=0)&&(k<s.length())&&(s.charAt(j)==s.charAt(k))){
-                j = j-1;
-                k = k+1;
-            }
-            j++;
-            k--;
-            if((k-j)>(ansb-ansa)){
-                ansa = j;
-                ansb = k;
+        if (s.length() <= 1) return s;
+
+        // Add separators to handle odd and even length palindromes uniformly
+        StringBuilder t = new StringBuilder("^");
+
+        for (char c : s.toCharArray()) {
+            t.append("#");
+            t.append(c);
+        }
+
+        t.append("#$");
+
+        int n = t.length();
+        int[] p = new int[n];
+
+        int center = 0;
+        int right = 0;
+
+        int maxLen = 0;
+        int maxCenter = 0;
+
+        for (int i = 1; i < n - 1; i++) {
+
+            // Mirror position of i around center
+            int mirror = 2 * center - i;
+
+            // If i is inside current palindrome
+            if (i < right) {
+                p[i] = Math.min(right - i, p[mirror]);
             }
 
-            j=i;
-            k = i+1;
-            while((j>=0)&&(k<s.length())&&(s.charAt(j)==s.charAt(k))){
-                j = j-1;
-                k = k+1;
+            // Expand around i
+            while (t.charAt(i + 1 + p[i]) ==
+                   t.charAt(i - 1 - p[i])) {
+                p[i]++;
             }
-            j++;
-            k--;
-            if((k-j)>(ansb-ansa)){
-                ansa = j;
-                ansb = k;
+
+            // Update center and right boundary
+            if (i + p[i] > right) {
+                center = i;
+                right = i + p[i];
+            }
+
+            // Track longest palindrome
+            if (p[i] > maxLen) {
+                maxLen = p[i];
+                maxCenter = i;
             }
         }
 
-        return s.substring(ansa,ansb+1);
+        int start = (maxCenter - maxLen) / 2;
+
+        return s.substring(start, start + maxLen);
     }
 }
