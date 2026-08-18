@@ -46,6 +46,7 @@
 | [1095-find-in-mountain-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
