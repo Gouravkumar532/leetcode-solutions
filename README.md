@@ -23,6 +23,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
