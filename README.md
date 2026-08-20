@@ -49,6 +49,7 @@
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
