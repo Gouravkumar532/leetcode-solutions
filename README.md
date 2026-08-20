@@ -42,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0477-total-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
