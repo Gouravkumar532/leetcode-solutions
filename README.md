@@ -26,6 +26,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0043-multiply-strings) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -191,5 +193,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
