@@ -13,6 +13,7 @@
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -63,6 +64,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2784-check-if-array-is-good](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
