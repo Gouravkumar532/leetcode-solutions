@@ -11,6 +11,7 @@
 | [0319-bulb-switcher](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0477-total-hamming-distance](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0593-valid-square](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -238,4 +239,8 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
