@@ -63,6 +63,7 @@
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 | [1095-find-in-mountain-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
@@ -174,6 +175,7 @@
 | [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1328-break-a-palindrome](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1328-break-a-palindrome) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -192,6 +194,7 @@
 | [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
