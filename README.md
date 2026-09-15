@@ -54,6 +54,7 @@
 | [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0791-custom-sort-string](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0791-custom-sort-string) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
