@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -101,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0283-move-zeroes) |
