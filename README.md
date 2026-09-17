@@ -59,6 +59,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -95,6 +96,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
