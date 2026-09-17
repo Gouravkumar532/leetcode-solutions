@@ -55,6 +55,7 @@
 | [0031-next-permutation](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -275,4 +277,8 @@
 | ------- |
 | [0593-valid-square](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
