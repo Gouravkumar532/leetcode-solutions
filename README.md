@@ -70,6 +70,7 @@
 | [0485-max-consecutive-ones](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -163,6 +164,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
