@@ -15,6 +15,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -291,6 +292,7 @@
 | ------- |
 | [0593-valid-square](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
 | ------- |
