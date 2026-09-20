@@ -46,6 +46,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -148,6 +149,7 @@
 | [1929-concatenation-of-array](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Gouravkumar532/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
